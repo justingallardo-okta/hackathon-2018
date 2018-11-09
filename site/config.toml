@@ -5,7 +5,7 @@ theme = "osprey"
 canonifyURLS = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 [Params]
-    tagline = "hack hack hack"
+    tagline = "this name doesn't make sense..."
     logoBig = ""
     logoSmall = ""
     favicon = "favicon.ico"
