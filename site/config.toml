@@ -1,0 +1,21 @@
+baseURL = "http://hax.negativetrust.zone"
+languageCode = "en-us"
+title = "NEGATIVE TRUST"
+theme = "osprey"
+canonifyURLS = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[Params]
+    tagline = "hack hack hack"
+    logoBig = ""
+    logoSmall = ""
+    favicon = "favicon.ico"
+    opengraphImage = ""
+    googleTagManager = ""
+    highlightJS = true
+    copyright = false
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
